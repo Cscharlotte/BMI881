@@ -4,7 +4,9 @@ In this paper, the authors used a JASA issue and a few corresponding exmaples to
 ## Reaction to the paper
 Generally, I like the idea what the paper was trying to argue for, espeically consdering the time that this paper was published. Sometimes we still see many data to be presented in a tedious way of listing all the information in a table in some papers, which is really hard for readers to capture the main idea or important information from it. I agree with the authors, espeically in the examples they have listed, graphical demonstration is more clear to present their results. However, in some of the examples, for instance, when summarizing asymptotic properties of a statistical method, I personally feel like the amount of time I spent on interpreting the figures is comparable to or more than that spent on reading off the numerical values. If the original table was organized better, it would also get more clear. Meanwhile, except the time consumed on interpretation, graphics in genearal can potentially be more misleading as authors can mislabel, use wrong scales or just misrepresnt the data or the readers can simply misunderstand the meaning of figures.
 ## Questions for discussion
-What can be the case that table is absolutely better than graphics?\
-When we use graphics to demonstrate research results, what should we be cautious about?\
+What can be the case that table is absolutely better than graphics?
+
+When we use graphics to demonstrate research results, what should we be cautious about?
+
 What are the other things you can think about when presenting numerical results in a paper?
 
