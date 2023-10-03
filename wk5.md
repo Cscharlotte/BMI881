@@ -1,1 +1,10 @@
+# Hormone replacement therapy
+## Summary of multiple papers
+This paper mainly discusses about the extent to which differences including randomization contribute to discrepant observational versus randomized effect estimates. Focusing on the causal relationship between postmenopausal hormone therapy and coronary heart disease risk, there are contradictory results between observational studies and randomized trials. It reanalyzed observational data from the Nurses' Health Study (NHS) to make its estimates of hormone therapy directly comparable to the WHI trial. The authors have conceptualized the NHS cohort as a sequence of non-randomized trials and using an observational equivalent of the intention-to-treat (ITT) principle. Their new ITT results in terms of HR are comparable to those from the WHI study. They have suggested that hormone therapy might increase long-term CHD risk in women initiating it 10 or more years after menopause. There are multiple commentary following the paper, talking over the pros and cons of using this technique on observational studies.
+## Reaction to all papers
+First of all, I feel the original paper was fairly interesting as it had a nice try to reanalyze observational data dealing with exsiting issues. However, I also agree that using ITT analysis in observational studies can introduce complexity and may not necessarily provide additional insights compared to traditional approaches. It underscores the importance of carefully considering the choice of statistical methods in epidemiological research. As authors were emphasizing that the effects of hormone therapy can vary depending on the individual's characteristics and timing of initiation, it is clear that people should be cautious about generalizing results of varying studies to the whole population. 
 
+## Questions for discussion
+What are the strengths and weaknesses of RCTs compared to observational studies when assessing the efficacy and safety of medical interventions?
+
+Is this type of back and forth still common nowadays when people publish their work or it's mostly dealt in the review process?
